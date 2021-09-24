@@ -4,7 +4,11 @@
 
 ### Silos Devs et Ops
 
-![](https://web.devopstopologies.com/images/anti-type-a.png)
+<img src="https://web.devopstopologies.com/images/anti-type-a.png" width="50%" />
+
+* Pas de communication entre Dev et Ops
+* Fameux mur de la confusion
+* Pas de contexte opérationnel
 
 ----
 
